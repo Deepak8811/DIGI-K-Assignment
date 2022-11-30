@@ -6,7 +6,7 @@ const DisplayTable = ({ data, repositories }) => {
       <thead>
         <tr>
           <th>Name</th>
-          <th>Prifile</th>
+          <th>Profile</th>
           <th>Location</th>
           <th>Bio</th>
           <th>Repositories</th>
